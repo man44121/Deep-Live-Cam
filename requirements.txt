@@ -5,7 +5,6 @@ cv2_enumerate_cameras==1.1.15
 onnx==1.18.0
 insightface==0.7.3
 psutil==5.9.8
-tk==0.1.0
 customtkinter==5.2.2
 pillow==12.1.1
 tqdm>=4.65.0
